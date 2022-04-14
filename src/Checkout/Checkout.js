@@ -1,9 +1,10 @@
 import React from 'react';
+import construction from './construction.jpg'
 
 const Checkout = () => {
     return (
         <div>
-            <h2>This is checkout page</h2>
+            <img style={{ height: 'calc(100vh - 72px)', width: '100vw' }} src={construction} alt="" />
         </div>
     );
 };

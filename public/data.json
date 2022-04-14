@@ -1,0 +1,42 @@
+[
+    {
+      "id": "6257db7dcd06adf0064e2d69",
+      "price": "৳11,000",
+      "img": "https://i.ibb.co/zRCnjvc/meeting-room.jpg",
+      "name": "Meeting Room"
+    },
+    {
+      "id": "6257db7df14d8c5b22c1e1f9",
+      "price": "৳13,000",
+      "img": "https://i.ibb.co/Rg706Jk/confrance-room.jpg",
+      "name": "Conference Room"
+    },
+    {
+      "id": "6257db7d8270e857285e881c",
+      "price": "৳10,500",
+      "img": "https://i.ibb.co/hDTFRFj/single-room.jpg",
+      "name": "Single Room"
+    },
+    {
+      "id": "6257db7da6661e1ea774b21f",
+      "price": "৳14,000",
+      "img": "https://i.ibb.co/8X0dQ9h/corporate-room.jpg",
+      "name": "Corporate Room"
+    },
+    {
+      "id": "6257db7de40ed2fe1b645b0e",
+      "price": "৳13,000",
+      "img": "https://i.ibb.co/51stzXd/family-room.jpg",
+      "name": "Family Room"
+    },
+    {
+      "id": "6257db7d6227bf86c1ebc368",
+      "price": "৳12,000",
+      "img": "https://i.ibb.co/Hx3DM5P/dubble-room.jpg",
+      "name": "Dubble Room"
+    }
+  ]
+
+
+
+
