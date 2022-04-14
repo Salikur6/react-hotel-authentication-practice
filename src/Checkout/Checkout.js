@@ -4,7 +4,7 @@ import construction from './construction.jpg'
 const Checkout = () => {
     return (
         <div>
-            <img style={{ height: 'calc(100vh - 72px)', width: '100vw' }} src={construction} alt="" />
+            <img style={{ height: 'calc(100vh - 78px)', width: '100vw' }} src={construction} alt="" />
         </div>
     );
 };

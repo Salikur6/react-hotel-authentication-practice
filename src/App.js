@@ -4,6 +4,7 @@ import Checkout from './Checkout/Checkout';
 import Header from './Home/Header/Header';
 import Home from './Home/Home/Home';
 import Login from './Login/Login';
+import NotFound from './NotFound/NotFound';
 import Register from './Register/Register';
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
         <Route path='/checkout' element={<Checkout></Checkout>}></Route>
         <Route path='/register' element={<Register></Register>}></Route>
         <Route path='/login' element={<Login></Login>}></Route>
+        <Route path='*' element={<NotFound></NotFound>}></Route>
       </Routes>
     </div>
   );

@@ -10,7 +10,7 @@ const RoomCards = () => {
             .then(data => setRooms(data))
     }, [])
     return (
-        <div className='container'>
+        <div className='container my-5'>
             <div className="row g-3">
                 {
                     rooms.map(room => <RoomCard key={room.id} room={room}></RoomCard>)

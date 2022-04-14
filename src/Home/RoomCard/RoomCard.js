@@ -9,11 +9,11 @@ const RoomCard = ({ room }) => {
             <Card>
                 <Card.Img variant="top" style={{ height: '225px' }} src={img} />
                 <Card.Body>
-                    <Card.Title>{name}</Card.Title>
+                    <Card.Title className='fw-bold'>{name}</Card.Title>
                     <Card.Text>
                         {price}
                     </Card.Text>
-                    <Link to='/checkout'><Button variant="primary">Checkout</Button></Link>
+                    <Link to='/checkout'><Button variant="primary" className='fw-bold'>Checkout</Button></Link>
                 </Card.Body>
             </Card>
         </div>
